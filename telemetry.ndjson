@@ -1,0 +1,11 @@
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:00Z", "success": false, "duration_ms": 1000}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:01Z", "success": false, "duration_ms": 1100}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:02Z", "success": false, "duration_ms": 1200}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:03Z", "success": false, "duration_ms": 1300}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:04Z", "success": false, "duration_ms": 1400}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:05Z", "success": false, "duration_ms": 1500}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:06Z", "success": true, "duration_ms": 200}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:07Z", "success": false, "duration_ms": 1600}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:08Z", "success": false, "duration_ms": 1700}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:09Z", "success": false, "duration_ms": 1800}
+{"tool": "api_client", "timestamp": "2025-01-01T12:00:10Z", "success": true, "duration_ms": 300}

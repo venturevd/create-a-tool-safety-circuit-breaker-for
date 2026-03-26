@@ -1,0 +1,10 @@
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:00Z", "success": true, "duration_ms": 500, "arguments": {"query": "test1"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:01Z", "success": true, "duration_ms": 600, "arguments": {"query": "test2"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:02Z", "success": true, "duration_ms": 550, "arguments": {"query": "test3"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:03Z", "success": true, "duration_ms": 580, "arguments": {"query": "test4"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:04Z", "success": true, "duration_ms": 620, "arguments": {"query": "test5"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:05Z", "success": false, "error": "timeout", "duration_ms": 8000, "arguments": {"query": "test6"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:06Z", "success": false, "error": "error", "duration_ms": 7000, "arguments": {"query": "test7"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:07Z", "success": false, "error": "timeout", "duration_ms": 9000, "arguments": {"query": "test8"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:08Z", "success": false, "error": "error", "duration_ms": 7500, "arguments": {"query": "test9"}}
+{"tool": "search_web", "timestamp": "2025-01-01T12:00:09Z", "success": false, "error": "timeout", "duration_ms": 8500, "arguments": {"query": "test10"}}

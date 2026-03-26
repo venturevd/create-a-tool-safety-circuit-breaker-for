@@ -1,0 +1,13 @@
+{
+  "tool": "send_email",
+  "timestamp": "2025-01-01T12:00:00Z",
+  "success": true,
+  "arguments": {
+    "to": "user@example.com",
+    "subject": "Hello",
+    "body": "My password is secret123 and my API key is sk-1234567890"
+  },
+  "output": {
+    "status": "sent"
+  }
+}

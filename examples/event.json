@@ -1,0 +1,10 @@
+{
+  "tool": "search_web",
+  "timestamp": "2025-01-01T12:00:00Z",
+  "success": false,
+  "error": "timeout",
+  "duration_ms": 10000,
+  "arguments": {
+    "query": "python tutorial"
+  }
+}

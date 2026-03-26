@@ -1,0 +1,12 @@
+{
+  "tool": "email_sender",
+  "timestamp": "2025-01-01T12:00:00Z",
+  "success": false,
+  "error": "SMTP connection timeout",
+  "duration_ms": 15000,
+  "arguments": {
+    "to": "user@example.com",
+    "subject": "Test",
+    "body": "Hello"
+  }
+}
