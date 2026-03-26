@@ -1,0 +1,11 @@
+{
+  "failure_rate_threshold": 0.3,
+  "failure_window_seconds": 60,
+  "latency_p95_threshold_ms": 5000,
+  "latency_window_seconds": 60,
+  "replay_diff_threshold": 0.1,
+  "replay_window_seconds": 300,
+  "sensitive_data_patterns": ["password", "api_key", "token", "secret"],
+  "action_on_trip": "block",
+  "cooldown_seconds": 300
+}

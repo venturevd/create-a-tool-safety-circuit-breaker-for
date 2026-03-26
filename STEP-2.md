@@ -1,12 +1,14 @@
-# Step 2: Create README
+# Step 2: Documentation
 
-**File to create:** `main.py`
-**Estimated size:** ~200 lines
+**File to create:** `README.md`
+**Estimated size:** ~30 lines
+
+**Depends on:** STEP-1.md (those files should already exist)
 
 ## Instructions
 
-Write a README.md file that explains how to use the `should_trip_circuit_breaker` function. Include usage examples and any necessary setup instructions. BUDGET: ≤30 LOC, 1 file only.
+Write a README.md for this tool. Title: Create Circuit Breaker Library. Include: what it does, how to install, how to use, example usage.
 
 ## Verification
 
-Run: `python3 main.py --help`
+Run: `cat README.md`

@@ -1,12 +1,14 @@
-# Step 4: Add README
+# Step 4: Documentation
 
-**File to create:** `main.py`
-**Estimated size:** ~200 lines
+**File to create:** `README.md`
+**Estimated size:** ~30 lines
+
+**Depends on:** STEP-1.md (those files should already exist)
 
 ## Instructions
 
-Create a README.md file that explains how to use the CLI tool. Include instructions for the `eval` and `stream` commands, and provide examples. BUDGET: ≤30 LOC, 1 file only.
+Write a README.md for this tool. Title: Create CLI for Circuit Breaker. Include: what it does, how to install, how to use, example usage.
 
 ## Verification
 
-Run: `python3 main.py --help`
+Run: `cat README.md`

@@ -16,6 +16,8 @@ Acceptance criteria:
 ## Relevant Existing Artifacts (import/extend if useful)
 
 ## Relevant existing artifacts (check before building):
+  - **create-a-tool-safety-circuit-breaker-for** [has tests] (similarity 58%)
+    Tool Safety Circuit Breaker - CLI tool for runtime agent tool safety.
   - **create-a-tool-call-threat-model-policy-l** [has tests] (similarity 58%)
     Static risk analysis for agent tool calls before execution. Flag high-risk patterns like sensitive data exfiltration, prompt injection, prohibited ope
   - **implement-a-tool-call-contract-linter-fo** (similarity 57%)
@@ -24,8 +26,6 @@ Acceptance criteria:
     A coordination tool that routes agent tool calls to available tools with validated fallbacks. Given an agent's current tool registry state plus a plan
   - **implement-an-integration-contract-eviden** (similarity 55%)
     A CLI tool that collects and packages evidence proving that an agent-tool integration is correct and safe in a specific deployment context. It normali
-  - **implement-an-integration-smoke-run-harne** (similarity 53%)
-    A lightweight CLI tool for validating agent toolchain configuration before execution. Runs a suite of smoke tests against an agent's configured tools,
 
 ## Related completed tasks:
   - Implement a Tool-Call Contract Linter for Agent Tool Specs
